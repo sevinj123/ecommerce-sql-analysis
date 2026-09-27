@@ -69,7 +69,35 @@ The analysis answers questions such as:
 - pgAdmin 4
 - GitHub
 
+## Query Results
+
+### Country Performance
+
+![Country Performance](screenshots/country-performance.PNG)
+
+### Average Order Value by Country
+
+**SQL query:**
+
+![Average Order Value SQL](screenshots/average-order-value-by-country-C.PNG)
+
+**Result:**
+
+![Average Order Value Result](screenshots/average-order-value-by-country.PNG)
+
+### Customers Above Their Country Average
+
+**SQL query:**
+
+![Country Average SQL](screenshots/customers-above-country-average1.PNG)
+
+**Result:**
+
+![Country Average Result](screenshots/customers-above-country-average2.PNG)
+
 ## Author
 
 **Sevinj**  
 Aspiring Data Analyst
+
+
